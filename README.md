@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Neha Gavande</h1>
 
-- 👨‍💻 All of my projects are available at https://github.com/nehaaa13
-
 - 📫 How to reach me **gavandeneha13@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
