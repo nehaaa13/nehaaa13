@@ -4,8 +4,8 @@
 ---
 
 <h2 align="left">📫 How to Reach Me</h2>
-- <b>Email</b>: [gavandeneha13@gmail.com](mailto:gavandeneha13@gmail.com)  <br>
-- <b>LinkedIn</b>: [Neha Gavande](https://www.linkedin.com/in/neha-gavande-047400214/)  
+- <b>Email</b>: gavandeneha13@gmail.com  <br>
+- <b>LinkedIn</b>: https://www.linkedin.com/in/neha-gavande-047400214
 
 ---
 <h2 align="left">🌟 LeetCode Badges</h2>
