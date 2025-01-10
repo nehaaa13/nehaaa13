@@ -63,6 +63,5 @@
 </p>
 
 ---
-
+🎉 **Fun Fact**: I was a Biology Student but later persuaded software engineering and love problem solving 🚀
 <h2 align="left">🚀 Let's Connect!</h2>
-Feel free to explore my projects and reach out for collaboration opportunities. Always excited to learn and grow with amazing minds!
