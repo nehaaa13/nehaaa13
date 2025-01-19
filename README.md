@@ -44,7 +44,7 @@
 ### 📊 **Inventory Management Application**  
 - Developed a responsive UI with Bootstrap and implemented CRUD operations using PHP and MySQL.  
 - Designed a reporting module to generate inventory status reports for better business insights.
-- <!--- 📹 **Project Demo**: [Watch the video here](https://your-video-link.com) -->
+ <!--- 📹 **Project Demo**: [Watch the video here](https://your-video-link.com) -->
 
 ### 🛠️ **User Management System (Java Spring Boot)**  
 - Created a CRUD application using Java Spring Boot and MyBatis ORM for efficient database operations.  
