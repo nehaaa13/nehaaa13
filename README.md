@@ -39,7 +39,7 @@
 - Built a full-stack real-time chat application with JWT-based authentication and real-time messaging using Socket.IO.  
 - Designed the frontend using React.js, ensuring smooth user interactions and real-time updates without page reloads.  
 - Leveraged MongoDB Atlas for scalable data storage.
-<!--- 📹 **Project Demo**: [Watch the video here](https://your-video-link.com) -->
+- 📹 **Project Link**: https://quick-chat-mp6c-a6741a7pz-nehaaa13s-projects.vercel.app/
 
 ### 📊 **Inventory Management Application**  
 - Developed a responsive UI with Bootstrap and implemented CRUD operations using PHP and MySQL.  
@@ -50,10 +50,10 @@
 - Created a CRUD application using Java Spring Boot and MyBatis ORM for efficient database operations.  
 - Ensured robust and optimized backend services for reliable data management.  
 
-### 🛠 **Job Hiring Portal**  
+<!-- ### 🛠 **Job Hiring Portal**  
 - Developed a web application enabling users to post job opportunities and search for jobs based on skills, roles, and descriptions.
 - Implemented functionalities for job posting and dynamic job listing with advanced search features.
-- Built using Spring Boot for backend development and MongoDB for database management.
+- Built using Spring Boot for backend development and MongoDB for database management. -->
 ---
 
 
