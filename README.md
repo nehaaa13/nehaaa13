@@ -41,6 +41,15 @@
 - Leveraged MongoDB Atlas for scalable data storage.
 - 📹 **Project Link**: https://quick-chat-mp6c-a6741a7pz-nehaaa13s-projects.vercel.app/
 
+### 🛠 **Real Estate Price Predication- Data Science & Machine Learning**  
+
+- Data Preprocessing: Cleans and transforms real estate data for better model performance.
+- Exploratory Data Analysis (EDA): Uses Matplotlib to visualize trends, correlations, and patterns in housing prices.
+- Feature Engineering: Identifies and selects the most relevant features to improve prediction accuracy.
+- Machine Learning Models: Implements algorithms like Linear Regression, Decision Trees, and Random Forests to predict property prices.
+- User Interaction: Allows users to input property details and get predicted prices based on trained models.
+<!-- - Model Evaluation: Uses metrics like Mean Squared Error (MSE) and R-squared (R²) to assess model performance. -->
+
 ### 📊 **Inventory Management Application**  
 - Developed a responsive UI with Bootstrap and implemented CRUD operations using PHP and MySQL.  
 - Designed a reporting module to generate inventory status reports for better business insights.
@@ -49,11 +58,6 @@
 ### 🛠️ **User Management System (Java Spring Boot)**  
 - Created a CRUD application using Java Spring Boot and MyBatis ORM for efficient database operations.  
 - Ensured robust and optimized backend services for reliable data management.  
-
-<!-- ### 🛠 **Job Hiring Portal**  
-- Developed a web application enabling users to post job opportunities and search for jobs based on skills, roles, and descriptions.
-- Implemented functionalities for job posting and dynamic job listing with advanced search features.
-- Built using Spring Boot for backend development and MongoDB for database management. -->
 ---
 
 
