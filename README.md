@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Neha Gavande 👋</h1>
-<p align="center">🚀 Passionate about building efficient and scalable Software applications | Aspiring Software Engineer | Currently exploring the field of Machine Learning</p>
+<p align="center">🚀 Passionate about building efficient and scalable Software applications | Currently exploring the field of Machine Learning</p>
 
 ---
 
