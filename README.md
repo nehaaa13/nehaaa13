@@ -67,5 +67,5 @@
 </p>
 
 ---
-🎉 **Fun Fact**: I was a Biology Student, later pursued software engineering and love problem solving 🚀
+<!--- 🎉 **Fun Fact**: I was a Biology Student, later pursued software engineering and love problem solving 🚀 -->
 <h2 align="left">🚀 Let's Connect!</h2>
