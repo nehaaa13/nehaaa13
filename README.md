@@ -55,10 +55,10 @@
 - Designed a reporting module to generate inventory status reports for better business insights.
  <!--- 📹 **Project Demo**: [Watch the video here](https://your-video-link.com) -->
 
-### 🛠️ **User Management System (Java Spring Boot)**  
+<!--- ### 🛠️ **User Management System (Java Spring Boot)**  
 - Created a CRUD application using Java Spring Boot and MyBatis ORM for efficient database operations.  
 - Ensured robust and optimized backend services for reliable data management.  
----
+--- -->
 
 
 <h2 align="left">📊 GitHub Stats</h2>
